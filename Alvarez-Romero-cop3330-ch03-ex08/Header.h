@@ -20,6 +20,12 @@ Revised June 8 2014: added #ifndef to workaround Microsoft C++11 weakness
 Revised Febrary 2 2015: randint() can now be seeded (see exercise 5.13).
 Revised August 3, 2020: a cleanup removing support for ancient compilers
 */
+
+/*
+ *  UCF COP3330 Fall 2021 Assignment 5 Solution
+ *  Copyright 2021 Rafael Alvarez-Romero
+ */
+
 #ifndef H112
 #define H112 080315L
 #include<iostream>
